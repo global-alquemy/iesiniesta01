@@ -1,0 +1,7 @@
+/odoo.conf
+/start
+/stop
+/.idea/
+.vscode/launch.json
+.vscode/settings.json
+*__pycache__/
